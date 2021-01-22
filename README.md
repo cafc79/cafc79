@@ -1,4 +1,4 @@
-### Hi [cafc79][website] here 👋
+### Hi [cafc79][blog] here 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cafc79?color=blueviolet&label=CAFC79&logo=twitter&style=for-the-badge)](https://twitter.com/cafc79)
